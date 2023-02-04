@@ -1,0 +1,2 @@
+This is a fun side project that I am doing to better understand time series analysis. It is currently a work in progress, so the code might not work, there may be inconsistencies and mistakes.
+The general goal is to predict the future temperature based on available data using statistical techniques such as SARIMA and Holt-Winters in addition to using ML methods
