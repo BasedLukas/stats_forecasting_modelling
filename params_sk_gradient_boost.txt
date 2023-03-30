@@ -1,7 +1,0 @@
-params = {"loss":"absolute_error", 
-          "learning_rate":0.057, 
-          "n_estimators": 100, 
-          "max_depth":7, 
-          "subsample": 0.1,
-          "random_state": 1234,
-          "verbose":1}(9.61145657755022, 2.4056866544740565, 0.8842464670692809)
